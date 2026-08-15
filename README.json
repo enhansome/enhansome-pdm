@@ -381,7 +381,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-08-13T12:46:26Z",
+            "last_commit": "2026-08-14T12:41:57Z",
             "owner": "Seven45",
             "repo": "pdm-ci",
             "stars": 10
@@ -426,7 +426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T02:41:47.097Z",
+    "last_updated": "2026-08-15T01:47:09.420Z",
     "original_repository": "pdm-project/awesome-pdm",
     "original_repository_sha": "10ff1413960213b2dee1eebff86d6a85a4f1e35e",
     "enhanced_repository": "enhansome/enhansome-pdm",

@@ -67,7 +67,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T15:22:10Z",
+            "last_commit": "2026-08-15T12:15:43Z",
             "owner": "GabDug",
             "repo": "sync-pre-commit-lock",
             "stars": 29
@@ -207,7 +207,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T22:14:07Z",
+            "last_commit": "2026-08-15T12:17:54Z",
             "owner": "GabDug",
             "repo": "pdm-wheel",
             "stars": 9
@@ -277,7 +277,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T00:07:16Z",
+            "last_commit": "2026-08-15T07:20:30Z",
             "owner": "carstencodes",
             "repo": "pdm-audit",
             "stars": 4
@@ -381,7 +381,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-08-14T12:41:57Z",
+            "last_commit": "2026-08-15T12:18:04Z",
             "owner": "Seven45",
             "repo": "pdm-ci",
             "stars": 10
@@ -426,7 +426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T01:47:09.420Z",
+    "last_updated": "2026-08-16T01:55:32.939Z",
     "original_repository": "pdm-project/awesome-pdm",
     "original_repository_sha": "10ff1413960213b2dee1eebff86d6a85a4f1e35e",
     "enhanced_repository": "enhansome/enhansome-pdm",

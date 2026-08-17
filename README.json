@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T01:34:39Z",
+            "last_commit": "2026-08-16T14:15:24Z",
             "owner": "carstencodes",
             "repo": "pdm-bump",
             "stars": 44
@@ -103,20 +103,6 @@
         },
         {
           "node_type": "item",
-          "title": "pdm-shear",
-          "description": "Detect and remove unused dependencies for Python projects",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-05T00:20:25Z",
-            "owner": "pdm-project",
-            "repo": "pdm-shear",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
           "title": "pdm-download",
           "description": "A PDM plugin to download all packages in a lockfile for offline use",
           "children": [],
@@ -126,6 +112,20 @@
             "last_commit": "2024-07-18T10:37:45Z",
             "owner": "pdm-project",
             "repo": "pdm-download",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pdm-shear",
+          "description": "Detect and remove unused dependencies for Python projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-05T00:20:25Z",
+            "owner": "pdm-project",
+            "repo": "pdm-shear",
             "stars": 17
           }
         },
@@ -277,7 +277,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T07:20:30Z",
+            "last_commit": "2026-08-16T10:24:46Z",
             "owner": "carstencodes",
             "repo": "pdm-audit",
             "stars": 4
@@ -381,7 +381,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-08-15T12:18:04Z",
+            "last_commit": "2026-08-16T12:19:00Z",
             "owner": "Seven45",
             "repo": "pdm-ci",
             "stars": 10
@@ -426,7 +426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T01:55:32.939Z",
+    "last_updated": "2026-08-17T01:52:58.756Z",
     "original_repository": "pdm-project/awesome-pdm",
     "original_repository_sha": "10ff1413960213b2dee1eebff86d6a85a4f1e35e",
     "enhanced_repository": "enhansome/enhansome-pdm",

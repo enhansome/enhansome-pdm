@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T19:34:47Z",
+            "last_commit": "2026-08-17T19:56:34Z",
             "owner": "frostming",
             "repo": "pdm-packer",
             "stars": 51
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T14:15:24Z",
+            "last_commit": "2026-08-17T22:19:41Z",
             "owner": "carstencodes",
             "repo": "pdm-bump",
             "stars": 44
@@ -187,27 +187,13 @@
         },
         {
           "node_type": "item",
-          "title": "pdm-build-locked",
-          "description": "A PDM plugin to add locked packages as additional optional dependency groups to the distribution metadata on build",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-30T19:06:30Z",
-            "owner": "pdm-project",
-            "repo": "pdm-build-locked",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
           "title": "pdm-wheel",
           "description": "A PDM plugin to export your dependencies wheels, mainly for CI and deployments",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T12:17:54Z",
+            "last_commit": "2026-08-17T22:38:58Z",
             "owner": "GabDug",
             "repo": "pdm-wheel",
             "stars": 9
@@ -238,6 +224,20 @@
             "last_commit": "2024-07-02T14:46:04Z",
             "owner": "pawamoy",
             "repo": "pdm-multirun",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pdm-build-locked",
+          "description": "A PDM plugin to add locked packages as additional optional dependency groups to the distribution metadata on build",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-30T19:06:30Z",
+            "owner": "pdm-project",
+            "repo": "pdm-build-locked",
             "stars": 8
           }
         },
@@ -353,7 +353,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T21:37:46Z",
+            "last_commit": "2026-08-17T22:01:16Z",
             "owner": "pdm-project",
             "repo": "tox-pdm",
             "stars": 26
@@ -381,7 +381,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-08-16T12:19:00Z",
+            "last_commit": "2026-08-17T12:22:46Z",
             "owner": "Seven45",
             "repo": "pdm-ci",
             "stars": 10
@@ -395,7 +395,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T21:06:15Z",
+            "last_commit": "2026-08-17T21:32:28Z",
             "owner": "floatingpurr",
             "repo": "sync_with_pdm",
             "stars": 10
@@ -426,7 +426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T01:52:58.756Z",
+    "last_updated": "2026-08-18T01:48:15.768Z",
     "original_repository": "pdm-project/awesome-pdm",
     "original_repository_sha": "10ff1413960213b2dee1eebff86d6a85a4f1e35e",
     "enhanced_repository": "enhansome/enhansome-pdm",

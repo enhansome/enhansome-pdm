@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 372396756,
             "language": "Python",
             "last_commit": "2026-08-17T19:56:34Z",
             "owner": "frostming",
@@ -24,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 405465858,
             "language": "Python",
-            "last_commit": "2026-08-18T02:46:30Z",
+            "last_commit": "2026-08-19T07:38:53Z",
             "owner": "carstencodes",
             "repo": "pdm-bump",
             "stars": 44
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 600396005,
             "language": "Python",
             "last_commit": "2024-10-30T11:24:06Z",
             "owner": "EmbarkStudios",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 579207904,
             "language": "Python",
             "last_commit": "2024-09-16T03:24:45Z",
             "owner": "macro128",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 660338127,
             "language": "Python",
             "last_commit": "2026-08-15T12:15:43Z",
             "owner": "GabDug",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 518026278,
             "language": "Python",
             "last_commit": "2023-05-19T00:55:51Z",
             "owner": "frostming",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 731368063,
             "language": "Python",
             "last_commit": "2026-08-01T12:28:52Z",
             "owner": "noirbizarre",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 960196701,
             "language": "Python",
             "last_commit": "2025-04-05T00:20:25Z",
             "owner": "pdm-project",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 730678152,
             "language": "Python",
             "last_commit": "2024-07-18T10:37:45Z",
             "owner": "pdm-project",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 517981606,
             "language": "Python",
             "last_commit": "2025-09-06T09:34:19Z",
             "owner": "pdm-project",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 627983331,
             "language": "Python",
             "last_commit": "2026-04-27T20:50:31Z",
             "owner": "znd4",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 459935883,
             "language": "Python",
             "last_commit": "2022-11-24T16:28:19Z",
             "owner": "abersheeran",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 584218580,
             "language": "Python",
             "last_commit": "2025-02-02T14:10:38Z",
             "owner": "carstencodes",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 594800681,
             "language": "Python",
             "last_commit": "2026-08-17T22:38:58Z",
             "owner": "GabDug",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 408052056,
             "language": "Python",
             "last_commit": "2025-11-27T09:05:54Z",
             "owner": "abersheeran",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 574421485,
             "language": "Python",
             "last_commit": "2024-07-02T14:46:04Z",
             "owner": "pawamoy",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 665693567,
             "language": "Python",
             "last_commit": "2025-11-30T19:06:30Z",
             "owner": "pdm-project",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 727323054,
             "language": "Python",
             "last_commit": "2026-08-14T02:24:12Z",
             "owner": "andriykohut",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 453473968,
             "language": "Python",
             "last_commit": "2023-04-10T16:29:44Z",
             "owner": "neutron-sync",
@@ -276,8 +295,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 776561040,
             "language": "Python",
-            "last_commit": "2026-08-18T02:47:48Z",
+            "last_commit": "2026-08-19T09:45:56Z",
             "owner": "carstencodes",
             "repo": "pdm-audit",
             "stars": 4
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 648890005,
             "language": "Python",
             "last_commit": "2023-06-18T13:28:57Z",
             "owner": "theredfoxlee",
@@ -301,7 +322,7 @@
       "title": "Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 343259430,
             "language": "TypeScript",
             "last_commit": "2026-08-13T09:30:07Z",
             "owner": "pdm-project",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 354655511,
             "language": "Jinja",
             "last_commit": "2024-12-04T13:22:13Z",
             "owner": "pawamoy",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 349397700,
             "language": "Jinja",
             "last_commit": "2024-02-20T15:51:46Z",
             "owner": "pdm-project",
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 343687199,
             "language": "Python",
             "last_commit": "2026-08-17T22:01:16Z",
             "owner": "pdm-project",
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 487237148,
             "language": "Python",
             "last_commit": "2024-10-11T11:16:41Z",
             "owner": "GreyElaina",
@@ -380,8 +406,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 583341074,
             "language": "Dockerfile",
-            "last_commit": "2026-08-18T12:25:00Z",
+            "last_commit": "2026-08-19T12:24:42Z",
             "owner": "Seven45",
             "repo": "pdm-ci",
             "stars": 10
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 517696601,
             "language": "Python",
             "last_commit": "2026-08-17T21:32:28Z",
             "owner": "floatingpurr",
@@ -408,26 +436,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798400260,
             "language": "Python",
             "last_commit": "2024-05-31T18:28:52Z",
             "owner": "Aviksaikat",
             "repo": "cookiecutter-pdm-pypackage",
             "stars": 7
           }
-        },
-        {
-          "node_type": "item",
-          "title": "update-deps-action",
-          "description": "A GitHub Action to update the pdm lockfile",
-          "children": []
         }
       ],
       "title": "Eco-system"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T01:50:53.314Z",
+    "last_updated": "2026-08-19T12:47:14.761Z",
     "original_repository": "pdm-project/awesome-pdm",
+    "original_repository_id": 378060865,
     "original_repository_sha": "10ff1413960213b2dee1eebff86d6a85a4f1e35e",
     "enhanced_repository": "enhansome/enhansome-pdm",
     "enhanced_repository_description": null,

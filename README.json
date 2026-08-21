@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T19:56:34Z",
             "owner": "frostming",
             "repo": "pdm-packer",
-            "stars": 51
+            "stars": 50
           }
         },
         {
@@ -267,7 +267,7 @@
             "archived": false,
             "id": 727323054,
             "language": "Python",
-            "last_commit": "2026-08-14T02:24:12Z",
+            "last_commit": "2026-08-21T01:41:42Z",
             "owner": "andriykohut",
             "repo": "pdm-readiness",
             "stars": 6
@@ -408,7 +408,7 @@
             "archived": false,
             "id": 583341074,
             "language": "Dockerfile",
-            "last_commit": "2026-08-19T12:24:42Z",
+            "last_commit": "2026-08-20T12:26:51Z",
             "owner": "Seven45",
             "repo": "pdm-ci",
             "stars": 10
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T01:48:43.030Z",
+    "last_updated": "2026-08-21T01:54:45.382Z",
     "original_repository": "pdm-project/awesome-pdm",
     "original_repository_id": 378060865,
     "original_repository_sha": "10ff1413960213b2dee1eebff86d6a85a4f1e35e",

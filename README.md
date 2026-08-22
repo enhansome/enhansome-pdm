@@ -36,7 +36,7 @@
 * [copier-pdm](https://github.com/pdm-project/copier-pdm) ⭐ 31 | 🐛 1 | 🌐 Jinja | 📅 2024-02-20 - A Copier template for PDM projects
 * [tox-pdm](https://github.com/pdm-project/tox-pdm) ⭐ 26 | 🐛 7 | 🌐 Python | 📅 2026-08-17 - A plugin for tox that utilizes PDM as the package manager and installer
 * [Mina](https://github.com/GreyElaina/Mina) ⭐ 24 | 🐛 3 | 🌐 Python | 📅 2024-10-11 - a monorepo-like implementation, which act as a hacking agent of `pdm-pep517`
-* [pdm-ci](https://github.com/Seven45/pdm-ci) ⭐ 10 | 🐛 1 | 🌐 Dockerfile | 📅 2026-08-20 - A docker image for usage in multistage builds or gitlab-ci
+* [pdm-ci](https://github.com/Seven45/pdm-ci) ⭐ 10 | 🐛 1 | 🌐 Dockerfile | 📅 2026-08-21 - A docker image for usage in multistage builds or gitlab-ci
 * [sync\_with\_pdm](https://github.com/floatingpurr/sync_with_pdm) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2026-08-17 - a `pre-commit` hook to keep PDM-managed packages and pre-commit hooks in sync
 * [cookiecutter-pdm-pypackage](https://github.com/Aviksaikat/cookiecutter-pdm-pypackage) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2024-05-31 - A cookiecutter pdm pypackage template with ruff, mkdocs, precommit-hooks, github actions and more
 * [VSCode PDM Task Provider](https://marketplace.visualstudio.com/items?itemName=knowsuchagency.pdm-task-provider) - VSCode Task provider for PDM
@@ -63,4 +63,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

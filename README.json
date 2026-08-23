@@ -27,7 +27,7 @@
             "archived": false,
             "id": 405465858,
             "language": "Python",
-            "last_commit": "2026-08-19T07:38:53Z",
+            "last_commit": "2026-08-22T17:52:10Z",
             "owner": "carstencodes",
             "repo": "pdm-bump",
             "stars": 44
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 660338127,
             "language": "Python",
-            "last_commit": "2026-08-15T12:15:43Z",
+            "last_commit": "2026-08-22T12:16:13Z",
             "owner": "GabDug",
             "repo": "sync-pre-commit-lock",
             "stars": 29
@@ -207,7 +207,7 @@
             "archived": false,
             "id": 594800681,
             "language": "Python",
-            "last_commit": "2026-08-17T22:38:58Z",
+            "last_commit": "2026-08-22T12:18:47Z",
             "owner": "GabDug",
             "repo": "pdm-wheel",
             "stars": 9
@@ -267,7 +267,7 @@
             "archived": false,
             "id": 727323054,
             "language": "Python",
-            "last_commit": "2026-08-21T01:41:42Z",
+            "last_commit": "2026-08-22T09:03:36Z",
             "owner": "andriykohut",
             "repo": "pdm-readiness",
             "stars": 6
@@ -297,7 +297,7 @@
             "archived": false,
             "id": 776561040,
             "language": "Python",
-            "last_commit": "2026-08-19T09:45:56Z",
+            "last_commit": "2026-08-22T17:42:19Z",
             "owner": "carstencodes",
             "repo": "pdm-audit",
             "stars": 4
@@ -408,7 +408,7 @@
             "archived": false,
             "id": 583341074,
             "language": "Dockerfile",
-            "last_commit": "2026-08-21T12:26:29Z",
+            "last_commit": "2026-08-22T12:19:19Z",
             "owner": "Seven45",
             "repo": "pdm-ci",
             "stars": 10
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T01:47:51.284Z",
+    "last_updated": "2026-08-23T01:57:37.932Z",
     "original_repository": "pdm-project/awesome-pdm",
     "original_repository_id": 378060865,
     "original_repository_sha": "10ff1413960213b2dee1eebff86d6a85a4f1e35e",

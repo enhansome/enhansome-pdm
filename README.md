@@ -20,13 +20,13 @@
 * [pdm-dotenv](https://github.com/znd4/pdm-dotenv) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-04-27 - A PDM plugin that loads `.env` files
 * [pdm-shell](https://github.com/abersheeran/pdm-shell) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2022-11-24 - Use `pdm shell` set PATH and PYTHONPATH in the current shell
 * [pdm-sbom](https://github.com/carstencodes/pdm-sbom) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2025-02-02 - A PDM plugin that generates Software Bill of Materials as [SPDX](https://spdx.org), [CycloneDX](https://cyclonedx.org) and [JFrog build info](https://buildinfo.org) from `pdm.lock`.
-* [pdm-wheel](https://github.com/GabDug/pdm-wheel) ⭐ 9 | 🐛 5 | 🌐 Python | 📅 2026-08-22 - A PDM plugin to export your dependencies wheels, mainly for CI and deployments
+* [pdm-wheel](https://github.com/GabDug/pdm-wheel) ⭐ 9 | 🐛 5 | 🌐 Python | 📅 2026-08-24 - A PDM plugin to export your dependencies wheels, mainly for CI and deployments
 * [pdm-version](https://github.com/abersheeran/pdm-version) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-11-27 - Make `pdm version` like `poetry version`
 * [pdm-multirun](https://github.com/pawamoy/pdm-multirun) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-07-02 - A PDM plugin to run a command on multiple Python versions
 * [pdm-build-locked](https://github.com/sigma67/pdm-build-locked) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2025-11-30 - A PDM plugin to add locked packages as additional optional dependency groups to the distribution metadata on build
 * [pdm-readiness](https://github.com/andriykohut/pdm-readiness) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-08-22 - A PDM plugin to check if your project dependencies support specified Python version
 * [pdm-django](https://github.com/neutron-sync/pdm-django/) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2023-04-10 - `pdm manage` and `pdm django-admin` shortcuts for Django commands
-* [pdm-audit](https://github.com/carstencodes/pdm-audit) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-08-24 - A PDM plugin that hooks into the installation end executes [pip-audit](https://github.com/pypa/pip-audit) ⭐ 1,351 | 🐛 70 | 🌐 Python | 📅 2026-08-20 right after installation or manually
+* [pdm-audit](https://github.com/carstencodes/pdm-audit) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-08-24 - A PDM plugin that hooks into the installation end executes [pip-audit](https://github.com/pypa/pip-audit) ⭐ 1,352 | 🐛 69 | 🌐 Python | 📅 2026-08-20 right after installation or manually
 * [pdm-pip-index-url](https://github.com/theredfoxlee/pdm-pip-index-url) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2023-06-18 - A PDM plugin that automatically converts `PIP_*INDEX_URL` to `PDM_PYPI_*` envs
 
 ## Eco-system
@@ -63,4 +63,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

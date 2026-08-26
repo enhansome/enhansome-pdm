@@ -27,7 +27,7 @@
             "archived": false,
             "id": 405465858,
             "language": "Python",
-            "last_commit": "2026-08-23T21:48:33Z",
+            "last_commit": "2026-08-25T19:04:47Z",
             "owner": "carstencodes",
             "repo": "pdm-bump",
             "stars": 44
@@ -297,7 +297,7 @@
             "archived": false,
             "id": 776561040,
             "language": "Python",
-            "last_commit": "2026-08-24T08:01:08Z",
+            "last_commit": "2026-08-25T15:41:31Z",
             "owner": "carstencodes",
             "repo": "pdm-audit",
             "stars": 4
@@ -408,7 +408,7 @@
             "archived": false,
             "id": 583341074,
             "language": "Dockerfile",
-            "last_commit": "2026-08-24T12:27:38Z",
+            "last_commit": "2026-08-25T12:27:49Z",
             "owner": "Seven45",
             "repo": "pdm-ci",
             "stars": 10
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:17:23.713Z",
+    "last_updated": "2026-08-26T01:55:53.972Z",
     "original_repository": "pdm-project/awesome-pdm",
     "original_repository_id": 378060865,
     "original_repository_sha": "10ff1413960213b2dee1eebff86d6a85a4f1e35e",

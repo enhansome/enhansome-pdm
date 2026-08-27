@@ -8,7 +8,7 @@
 ## Plugins
 
 * [pdm-packer](https://github.com/frostming/pdm-packer) ⭐ 50 | 🐛 3 | 🌐 Python | 📅 2026-08-17 - A PDM plugin that packs your packages into a zipapp
-* [pdm-bump](https://github.com/carstencodes/pdm-bump) ⭐ 44 | 🐛 2 | 🌐 Python | 📅 2026-08-27 - A PDM plugin that behaves like [bump2version](https://github.com/c4urself/bump2version) ⭐ 1,115 | 🐛 115 | 🌐 Python | 📅 2025-02-20 relying on PEP440 compliant versions
+* [pdm-bump](https://github.com/carstencodes/pdm-bump) ⭐ 45 | 🐛 2 | 🌐 Python | 📅 2026-08-27 - A PDM plugin that behaves like [bump2version](https://github.com/c4urself/bump2version) ⭐ 1,115 | 🐛 115 | 🌐 Python | 📅 2025-02-20 relying on PEP440 compliant versions
 * [pdm-plugin-torch](https://github.com/EmbarkStudios/pdm-plugin-torch) ⚠️ Archived - A utility tool for selecting torch backend and version
 * [pdm-conda](https://github.com/macro128/pdm-conda) ⚠️ Archived - A PDM plugin to install project dependencies with [Conda](https://docs.conda.io/projects/conda/en/latest/index.html)
 * [sync-pre-commit-lock](https://github.com/GabDug/sync-pre-commit-lock) ⭐ 29 | 🐛 5 | 🌐 Python | 📅 2026-08-22 - A PDM plugin to ease your life with `pre-commit` (automatic install, sync)

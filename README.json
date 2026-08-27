@@ -30,7 +30,7 @@
             "last_commit": "2026-08-27T03:15:38Z",
             "owner": "carstencodes",
             "repo": "pdm-bump",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -449,9 +449,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:36:38.531Z",
-    "original_repository": "pdm-project/awesome-pdm",
-    "original_repository_id": 378060865,
+    "last_updated": "2026-08-27T11:56:02.109Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 378060865,
+      "language": null,
+      "last_commit": "2025-05-23T02:01:32Z",
+      "owner": "pdm-project",
+      "repo": "awesome-pdm",
+      "stars": 386
+    },
     "original_repository_sha": "10ff1413960213b2dee1eebff86d6a85a4f1e35e",
     "enhanced_repository": "enhansome/enhansome-pdm",
     "enhanced_repository_description": null,

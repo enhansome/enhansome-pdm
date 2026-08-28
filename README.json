@@ -16,7 +16,8 @@
             "owner": "frostming",
             "repo": "pdm-packer",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 405465858,
             "language": "Python",
-            "last_commit": "2026-08-27T03:15:38Z",
+            "last_commit": "2026-08-27T22:38:05Z",
             "owner": "carstencodes",
             "repo": "pdm-bump",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "EmbarkStudios",
             "repo": "pdm-plugin-torch",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "macro128",
             "repo": "pdm-conda",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "GabDug",
             "repo": "sync-pre-commit-lock",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "frostming",
             "repo": "pdm-vscode",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "noirbizarre",
             "repo": "pdm-dockerize",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "pdm-project",
             "repo": "pdm-shear",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "pdm-project",
             "repo": "pdm-download",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "pdm-project",
             "repo": "pdm-autoexport",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "znd4",
             "repo": "pdm-dotenv",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "abersheeran",
             "repo": "pdm-shell",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "carstencodes",
             "repo": "pdm-sbom",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "GabDug",
             "repo": "pdm-wheel",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "abersheeran",
             "repo": "pdm-version",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "pawamoy",
             "repo": "pdm-multirun",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "pdm-project",
             "repo": "pdm-build-locked",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -267,11 +284,12 @@
             "archived": false,
             "id": 727323054,
             "language": "Python",
-            "last_commit": "2026-08-27T08:40:38Z",
+            "last_commit": "2026-08-28T10:52:42Z",
             "owner": "andriykohut",
             "repo": "pdm-readiness",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "neutron-sync",
             "repo": "pdm-django",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "carstencodes",
             "repo": "pdm-audit",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "theredfoxlee",
             "repo": "pdm-pip-index-url",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         }
       ],
       "title": "Plugins"
@@ -337,7 +358,8 @@
             "owner": "pdm-project",
             "repo": "setup-pdm",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "pawamoy",
             "repo": "copier-pdm",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "pdm-project",
             "repo": "copier-pdm",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "pdm-project",
             "repo": "tox-pdm",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "GreyElaina",
             "repo": "Mina",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -408,11 +434,12 @@
             "archived": false,
             "id": 583341074,
             "language": "Dockerfile",
-            "last_commit": "2026-08-26T12:30:27Z",
+            "last_commit": "2026-08-27T21:27:23Z",
             "owner": "Seven45",
             "repo": "pdm-ci",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "floatingpurr",
             "repo": "sync_with_pdm",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         },
         {
           "node_type": "item",
@@ -442,14 +470,15 @@
             "owner": "Aviksaikat",
             "repo": "cookiecutter-pdm-pypackage",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
         }
       ],
       "title": "Eco-system"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:56:02.109Z",
+    "last_updated": "2026-08-28T11:18:13.051Z",
     "original_repository_info": {
       "archived": false,
       "id": 378060865,

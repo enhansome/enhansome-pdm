@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PDM plugin that packs your packages into a zipapp",
+            "homepage": null,
             "id": 372396756,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T19:56:34Z",
+            "open_issues": 3,
             "owner": "frostming",
             "repo": "pdm-packer",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "packaging",
+              "pdm",
+              "zipapp"
+            ]
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -26,12 +35,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small PEP440 compliant bump utility for the Python development master.",
+            "homepage": null,
             "id": 405465858,
             "language": "Python",
-            "last_commit": "2026-08-27T22:38:05Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:54:35Z",
+            "open_issues": 2,
             "owner": "carstencodes",
             "repo": "pdm-bump",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -42,12 +56,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A tool for managing torch-variants with PDM. ",
+            "homepage": null,
             "id": 600396005,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-30T11:24:06Z",
+            "open_issues": 7,
             "owner": "EmbarkStudios",
             "repo": "pdm-plugin-torch",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -58,12 +77,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A PDM plugin to resolve/install/uninstall project dependencies with Conda",
+            "homepage": null,
             "id": 579207904,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-09-16T03:24:45Z",
+            "open_issues": 5,
             "owner": "macro128",
             "repo": "pdm-conda",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -74,12 +98,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically sync your pre-commit hooks version from your PDM, Poetry or UV lockfile, and install them automatically.",
+            "homepage": null,
             "id": 660338127,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-22T12:16:13Z",
+            "open_issues": 5,
             "owner": "GabDug",
             "repo": "sync-pre-commit-lock",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "pdm-plugin",
+              "poetry-plugin",
+              "pre-commit",
+              "pre-commit-config",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -90,12 +125,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED: A PDM plugin that autogenerates workspace vscode settings for you",
+            "homepage": null,
             "id": 518026278,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-19T00:55:51Z",
+            "open_issues": 3,
             "owner": "frostming",
             "repo": "pdm-vscode",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -106,12 +146,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Help generating docker images from PDM projects",
+            "homepage": null,
             "id": 731368063,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-01T12:28:52Z",
+            "open_issues": 2,
             "owner": "noirbizarre",
             "repo": "pdm-dockerize",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -122,12 +167,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detect and remove unused dependencies for Python projects",
+            "homepage": null,
             "id": 960196701,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-05T00:20:25Z",
+            "open_issues": 0,
             "owner": "pdm-project",
             "repo": "pdm-shear",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -138,12 +188,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PDM plugin to download all packages in a lockfile for offline use.",
+            "homepage": null,
             "id": 730678152,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-18T10:37:45Z",
+            "open_issues": 4,
             "owner": "pdm-project",
             "repo": "pdm-download",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "pdm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -154,12 +211,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PDM plugin to sync the exported files with the project file",
+            "homepage": "https://pypi.org/project/pdm-autoexport",
             "id": 517981606,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-06T09:34:19Z",
+            "open_issues": 0,
             "owner": "pdm-project",
             "repo": "pdm-autoexport",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "pdm"
+            ]
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -170,12 +234,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pdm-dotenv",
+            "homepage": null,
             "id": 627983331,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-27T20:50:31Z",
+            "open_issues": 1,
             "owner": "znd4",
             "repo": "pdm-dotenv",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "pdm"
+            ]
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -186,12 +257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use `pdm shell` set PATH and PYTHONPATH in the current shell",
+            "homepage": null,
             "id": 459935883,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-24T16:28:19Z",
+            "open_issues": 1,
             "owner": "abersheeran",
             "repo": "pdm-shell",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -202,12 +278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate Software Bill of Materials from PDM based projects",
+            "homepage": null,
             "id": 584218580,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-02T14:10:38Z",
+            "open_issues": 2,
             "owner": "carstencodes",
             "repo": "pdm-sbom",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -218,12 +299,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PDM plugin that save your requirements as wheels, similar to pip wheel",
+            "homepage": null,
             "id": 594800681,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T22:13:01Z",
+            "open_issues": 5,
             "owner": "GabDug",
             "repo": "pdm-wheel",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "pdm",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -234,12 +323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make `pdm version` like `poetry version`",
+            "homepage": null,
             "id": 408052056,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-27T09:05:54Z",
+            "open_issues": 0,
             "owner": "abersheeran",
             "repo": "pdm-version",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -250,12 +344,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PDM plugin to run a command on multiple Python versions.",
+            "homepage": "https://pawamoy.github.io/pdm-multirun/",
             "id": 574421485,
             "language": "Python",
+            "license": "ISC",
             "last_commit": "2024-07-02T14:46:04Z",
+            "open_issues": 0,
             "owner": "pawamoy",
             "repo": "pdm-multirun",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "pdm",
+              "pdm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -266,12 +368,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pdm-build-locked is a pdm plugin to publish locked dependencies as optional-dependencies",
+            "homepage": "https://pdm-build-locked.readthedocs.io",
             "id": 665693567,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-30T19:06:30Z",
+            "open_issues": 2,
             "owner": "pdm-project",
             "repo": "pdm-build-locked",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "awesome-pdm",
+              "locking",
+              "pdm",
+              "pdm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -282,12 +394,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pdm plugin to check if your project dependencies support specific Python version.",
+            "homepage": null,
             "id": 727323054,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:52:42Z",
+            "open_issues": 1,
             "owner": "andriykohut",
             "repo": "pdm-readiness",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "pdm",
+              "pdm-plugin",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -298,12 +419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Django shortcuts for PDM",
+            "homepage": null,
             "id": 453473968,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-04-10T16:29:44Z",
+            "open_issues": 0,
             "owner": "neutron-sync",
             "repo": "pdm-django",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -314,12 +440,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audit packages installed by PDM",
+            "homepage": null,
             "id": 776561040,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T15:41:31Z",
+            "open_issues": 2,
             "owner": "carstencodes",
             "repo": "pdm-audit",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -330,12 +461,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pdm plugin that automatically converts PIP_*INDEX_URL to PDM_PYPI_* envs.",
+            "homepage": "https://pypi.org/project/pdm-pip-index-url",
             "id": 648890005,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-18T13:28:57Z",
+            "open_issues": 1,
             "owner": "theredfoxlee",
             "repo": "pdm-pip-index-url",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "pdm",
+              "pip",
+              "plugin",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         }
@@ -352,12 +493,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GitHub Action that installs pdm properly for all Python versions",
+            "homepage": null,
             "id": 343259430,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T09:30:07Z",
+            "open_issues": 0,
             "owner": "pdm-project",
             "repo": "setup-pdm",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "action",
+              "pdm"
+            ]
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -368,12 +517,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Copier template for Python projects managed by PDM.",
+            "homepage": "https://pawamoy.github.io/copier-pdm",
             "id": 354655511,
             "language": "Jinja",
+            "license": "ISC",
             "last_commit": "2024-12-04T13:22:13Z",
+            "open_issues": 1,
             "owner": "pawamoy",
             "repo": "copier-pdm",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "bootstrapping",
+              "copier",
+              "copier-template",
+              "pdm",
+              "python",
+              "scaffolding",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -384,12 +546,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Copier template for PDM projects",
+            "homepage": "https://copier-pdm.fming.dev/",
             "id": 349397700,
             "language": "Jinja",
+            "license": "MIT",
             "last_commit": "2024-02-20T15:51:46Z",
+            "open_issues": 1,
             "owner": "pdm-project",
             "repo": "copier-pdm",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "copier",
+              "copier-template",
+              "project-template",
+              "scafolding",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -400,12 +573,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for tox that utilizes PDM as the package manager and installer",
+            "homepage": null,
             "id": 343687199,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T22:01:16Z",
+            "open_issues": 7,
             "owner": "pdm-project",
             "repo": "tox-pdm",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -416,12 +594,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 487237148,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-10-11T11:16:41Z",
+            "open_issues": 3,
             "owner": "GreyElaina",
             "repo": "Mina",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "monorepo",
+              "python-monorepo",
+              "repo-management"
+            ]
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -432,12 +619,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PDM-based image for ci usage",
+            "homepage": "https://hub.docker.com/r/seven45/pdm-ci",
             "id": 583341074,
             "language": "Dockerfile",
-            "last_commit": "2026-08-27T21:27:23Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:35:26Z",
+            "open_issues": 1,
             "owner": "Seven45",
             "repo": "pdm-ci",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "docker-image",
+              "dockerhub",
+              "gitlab-ci",
+              "multistage-build",
+              "package-manager",
+              "pdm",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -448,12 +649,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sync .pre-commit-config.yaml repos starting from pdm.lock",
+            "homepage": null,
             "id": 517696601,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T21:32:28Z",
+            "open_issues": 1,
             "owner": "floatingpurr",
             "repo": "sync_with_pdm",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "package-manager",
+              "pre-commit",
+              "pre-commit-hook",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         },
@@ -464,12 +675,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cookiecutter template for a cutting-edge Python package: pdm, ruff, mypy, GitHub Actions and more!",
+            "homepage": null,
             "id": 798400260,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-31T18:28:52Z",
+            "open_issues": 0,
             "owner": "Aviksaikat",
             "repo": "cookiecutter-pdm-pypackage",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "cookicutter",
+              "pdm",
+              "pip",
+              "python3",
+              "python3-project",
+              "python3-template",
+              "virtualenv"
+            ]
           },
           "first_seen": "2026-08-28T11:18:13.051Z"
         }
@@ -478,15 +702,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:18:13.051Z",
+    "last_updated": "2026-08-29T04:45:53.107Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome PDM plugins and resources",
+      "homepage": "https://awesome.pdm-project.org/",
       "id": 378060865,
       "language": null,
+      "license": null,
       "last_commit": "2025-05-23T02:01:32Z",
+      "open_issues": 2,
       "owner": "pdm-project",
       "repo": "awesome-pdm",
-      "stars": 386
+      "stars": 386,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "10ff1413960213b2dee1eebff86d6a85a4f1e35e",
     "enhanced_repository": "enhansome/enhansome-pdm",

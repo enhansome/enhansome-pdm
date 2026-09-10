@@ -624,7 +624,7 @@
             "id": 583341074,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-09-08T15:40:40Z",
+            "last_commit": "2026-09-09T15:35:14Z",
             "open_issues": 1,
             "owner": "Seven45",
             "repo": "pdm-ci",
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T04:34:41.426Z",
+    "last_updated": "2026-09-10T04:34:44.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PDM plugins and resources",
@@ -714,7 +714,7 @@
       "open_issues": 2,
       "owner": "pdm-project",
       "repo": "awesome-pdm",
-      "stars": 385,
+      "stars": 384,
       "topics": [
         "awesome",
         "awesome-list"

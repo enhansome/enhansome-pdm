@@ -294,6 +294,32 @@
         },
         {
           "node_type": "item",
+          "title": "pdm-build-locked",
+          "description": "A PDM plugin to add locked packages as additional optional dependency groups to the distribution metadata on build",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "pdm-build-locked is a pdm plugin to publish locked dependencies as optional-dependencies",
+            "homepage": "https://pdm-build-locked.readthedocs.io",
+            "id": 665693567,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-11-30T19:06:30Z",
+            "open_issues": 2,
+            "owner": "pdm-project",
+            "repo": "pdm-build-locked",
+            "stars": 9,
+            "topics": [
+              "awesome-pdm",
+              "locking",
+              "pdm",
+              "pdm-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T11:18:13.051Z"
+        },
+        {
+          "node_type": "item",
           "title": "pdm-wheel",
           "description": "A PDM plugin to export your dependencies wheels, mainly for CI and deployments",
           "children": [],
@@ -363,32 +389,6 @@
         },
         {
           "node_type": "item",
-          "title": "pdm-build-locked",
-          "description": "A PDM plugin to add locked packages as additional optional dependency groups to the distribution metadata on build",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "pdm-build-locked is a pdm plugin to publish locked dependencies as optional-dependencies",
-            "homepage": "https://pdm-build-locked.readthedocs.io",
-            "id": 665693567,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-11-30T19:06:30Z",
-            "open_issues": 2,
-            "owner": "pdm-project",
-            "repo": "pdm-build-locked",
-            "stars": 8,
-            "topics": [
-              "awesome-pdm",
-              "locking",
-              "pdm",
-              "pdm-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T11:18:13.051Z"
-        },
-        {
-          "node_type": "item",
           "title": "pdm-readiness",
           "description": "A PDM plugin to check if your project dependencies support specified Python version",
           "children": [],
@@ -445,7 +445,7 @@
             "id": 776561040,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-10T14:45:51Z",
+            "last_commit": "2026-09-14T01:03:52Z",
             "open_issues": 1,
             "owner": "carstencodes",
             "repo": "pdm-audit",
@@ -502,7 +502,7 @@
             "open_issues": 0,
             "owner": "pdm-project",
             "repo": "setup-pdm",
-            "stars": 95,
+            "stars": 96,
             "topics": [
               "action",
               "pdm"
@@ -624,7 +624,7 @@
             "id": 583341074,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-09-12T14:39:13Z",
+            "last_commit": "2026-09-13T15:19:23Z",
             "open_issues": 1,
             "owner": "Seven45",
             "repo": "pdm-ci",
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T04:40:43.502Z",
+    "last_updated": "2026-09-14T04:49:06.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PDM plugins and resources",
@@ -714,7 +714,7 @@
       "open_issues": 2,
       "owner": "pdm-project",
       "repo": "awesome-pdm",
-      "stars": 384,
+      "stars": 385,
       "topics": [
         "awesome",
         "awesome-list"

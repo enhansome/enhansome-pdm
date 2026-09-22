@@ -21,12 +21,12 @@
 * [pdm-shell](https://github.com/abersheeran/pdm-shell) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2022-11-24 - Use `pdm shell` set PATH and PYTHONPATH in the current shell
 * [pdm-sbom](https://github.com/carstencodes/pdm-sbom) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2025-02-02 - A PDM plugin that generates Software Bill of Materials as [SPDX](https://spdx.org), [CycloneDX](https://cyclonedx.org) and [JFrog build info](https://buildinfo.org) from `pdm.lock`.
 * [pdm-build-locked](https://github.com/sigma67/pdm-build-locked) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-09-16 - A PDM plugin to add locked packages as additional optional dependency groups to the distribution metadata on build
-* [pdm-wheel](https://github.com/GabDug/pdm-wheel) ⭐ 9 | 🐛 5 | 🌐 Python | 📅 2026-09-19 - A PDM plugin to export your dependencies wheels, mainly for CI and deployments
+* [pdm-wheel](https://github.com/GabDug/pdm-wheel) ⭐ 9 | 🐛 5 | 🌐 Python | 📅 2026-09-21 - A PDM plugin to export your dependencies wheels, mainly for CI and deployments
 * [pdm-version](https://github.com/abersheeran/pdm-version) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-11-27 - Make `pdm version` like `poetry version`
 * [pdm-multirun](https://github.com/pawamoy/pdm-multirun) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-07-02 - A PDM plugin to run a command on multiple Python versions
 * [pdm-readiness](https://github.com/andriykohut/pdm-readiness) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-09-17 - A PDM plugin to check if your project dependencies support specified Python version
 * [pdm-django](https://github.com/neutron-sync/pdm-django/) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2023-04-10 - `pdm manage` and `pdm django-admin` shortcuts for Django commands
-* [pdm-audit](https://github.com/carstencodes/pdm-audit) ⭐ 4 | 🐛 3 | 🌐 Python | 📅 2026-09-19 - A PDM plugin that hooks into the installation end executes [pip-audit](https://github.com/pypa/pip-audit) ⭐ 1,365 | 🐛 64 | 🌐 Python | 📅 2026-09-16 right after installation or manually
+* [pdm-audit](https://github.com/carstencodes/pdm-audit) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-09-21 - A PDM plugin that hooks into the installation end executes [pip-audit](https://github.com/pypa/pip-audit) ⭐ 1,366 | 🐛 63 | 🌐 Python | 📅 2026-09-16 right after installation or manually
 * [pdm-pip-index-url](https://github.com/theredfoxlee/pdm-pip-index-url) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2023-06-18 - A PDM plugin that automatically converts `PIP_*INDEX_URL` to `PDM_PYPI_*` envs
 
 ## Eco-system
@@ -36,7 +36,7 @@
 * [copier-pdm](https://github.com/pdm-project/copier-pdm) ⭐ 31 | 🐛 1 | 🌐 Jinja | 📅 2024-02-20 - A Copier template for PDM projects
 * [tox-pdm](https://github.com/pdm-project/tox-pdm) ⭐ 26 | 🐛 7 | 🌐 Python | 📅 2026-08-31 - A plugin for tox that utilizes PDM as the package manager and installer
 * [Mina](https://github.com/GreyElaina/Mina) ⭐ 24 | 🐛 3 | 🌐 Python | 📅 2024-10-11 - a monorepo-like implementation, which act as a hacking agent of `pdm-pep517`
-* [pdm-ci](https://github.com/Seven45/pdm-ci) ⭐ 10 | 🐛 1 | 🌐 Dockerfile | 📅 2026-09-20 - A docker image for usage in multistage builds or gitlab-ci
+* [pdm-ci](https://github.com/Seven45/pdm-ci) ⭐ 10 | 🐛 1 | 🌐 Dockerfile | 📅 2026-09-21 - A docker image for usage in multistage builds or gitlab-ci
 * [sync\_with\_pdm](https://github.com/floatingpurr/sync_with_pdm) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2026-08-31 - a `pre-commit` hook to keep PDM-managed packages and pre-commit hooks in sync
 * [cookiecutter-pdm-pypackage](https://github.com/Aviksaikat/cookiecutter-pdm-pypackage) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2024-05-31 - A cookiecutter pdm pypackage template with ruff, mkdocs, precommit-hooks, github actions and more
 * [VSCode PDM Task Provider](https://marketplace.visualstudio.com/items?itemName=knowsuchagency.pdm-task-provider) - VSCode Task provider for PDM
@@ -63,4 +63,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

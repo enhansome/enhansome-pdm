@@ -26,7 +26,7 @@
 * [pdm-build-locked](https://github.com/sigma67/pdm-build-locked) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-09-16 - A PDM plugin to add locked packages as additional optional dependency groups to the distribution metadata on build
 * [pdm-readiness](https://github.com/andriykohut/pdm-readiness) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-10-02 - A PDM plugin to check if your project dependencies support specified Python version
 * [pdm-django](https://github.com/neutron-sync/pdm-django/) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2023-04-10 - `pdm manage` and `pdm django-admin` shortcuts for Django commands
-* [pdm-audit](https://github.com/carstencodes/pdm-audit) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-10-05 - A PDM plugin that hooks into the installation end executes [pip-audit](https://github.com/pypa/pip-audit) ⭐ 1,379 | 🐛 61 | 🌐 Python | 📅 2026-10-01 right after installation or manually
+* [pdm-audit](https://github.com/carstencodes/pdm-audit) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-10-06 - A PDM plugin that hooks into the installation end executes [pip-audit](https://github.com/pypa/pip-audit) ⭐ 1,379 | 🐛 61 | 🌐 Python | 📅 2026-10-01 right after installation or manually
 * [pdm-pip-index-url](https://github.com/theredfoxlee/pdm-pip-index-url) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2023-06-18 - A PDM plugin that automatically converts `PIP_*INDEX_URL` to `PDM_PYPI_*` envs
 
 ## Eco-system

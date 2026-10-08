@@ -40,7 +40,7 @@
             "id": 405465858,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-07T05:14:53Z",
+            "last_commit": "2026-10-07T12:57:06Z",
             "open_issues": 2,
             "owner": "carstencodes",
             "repo": "pdm-bump",
@@ -445,7 +445,7 @@
             "id": 776561040,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T06:39:44Z",
+            "last_commit": "2026-10-07T21:05:04Z",
             "open_issues": 1,
             "owner": "carstencodes",
             "repo": "pdm-audit",
@@ -624,7 +624,7 @@
             "id": 583341074,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-10-06T17:37:08Z",
+            "last_commit": "2026-10-07T18:08:51Z",
             "open_issues": 1,
             "owner": "Seven45",
             "repo": "pdm-ci",
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T05:50:25.307Z",
+    "last_updated": "2026-10-08T05:55:28.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PDM plugins and resources",

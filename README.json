@@ -399,7 +399,7 @@
             "id": 727323054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T05:59:16Z",
+            "last_commit": "2026-11-13T06:01:32Z",
             "open_issues": 1,
             "owner": "andriykohut",
             "repo": "pdm-readiness",
@@ -624,7 +624,7 @@
             "id": 583341074,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-11-11T19:00:26Z",
+            "last_commit": "2026-11-12T19:19:35Z",
             "open_issues": 1,
             "owner": "Seven45",
             "repo": "pdm-ci",
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T07:03:22.115Z",
+    "last_updated": "2026-11-13T06:32:17.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome PDM plugins and resources",
